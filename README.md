@@ -7,4 +7,4 @@ The primary function of the app is to display a list of nearby coffee shops (als
 The third-party APIs used in the development of this project include Facebook SDK (for user account management), Apple's CoreLocation framework (for location services), and Apple MapKit (for building the map interface).
 
 ## How to Use
-The main Swift code files can be viewed in the "studylatte-final" folder. Also, the app can be downloaded and imported into XCode, and run using an iPhone simulator.
+The main Swift code files can be viewed in the "studylattefinal" folder. Also, the app can be downloaded and imported into XCode, and run using an iPhone simulator.
